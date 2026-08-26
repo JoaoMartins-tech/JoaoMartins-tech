@@ -211,7 +211,7 @@ const JoaoMartins = {
 <div align="center">
   <h2>🌍 Conecte-se Comigo</h2>
   
-  <a href="[https://www.linkedin.com/in/joao-martins/](https://www.linkedin.com/in/joão-martins-9a6a321ab/)">
+  <a href="https://www.linkedin.com/in/joão-martins-/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
