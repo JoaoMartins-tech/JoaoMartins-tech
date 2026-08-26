@@ -152,7 +152,6 @@ const JoaoMartins = {
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F88F22"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F88F22"></a>
-    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=F88F22"></a>
   </p>
 
   <h3>🌐 Web & Markup</h3>
