@@ -166,7 +166,6 @@ const JoaoMartins = {
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=F88F22"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=F88F22"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=F88F22"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=F88F22"></a>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-0d1117?style=for-the-badge&logo=junit5&logoColor=F88F22"></a>
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=F88F22"></a>
   </p>
