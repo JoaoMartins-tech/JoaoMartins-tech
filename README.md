@@ -148,19 +148,10 @@ const JoaoMartins = {
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F88F22"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F88F22"></a>
-    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F88F22"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=F88F22"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=F88F22"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F88F22"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=F88F22"></a>
-  </p>
-
-  <h3>🧠 Inteligência Artificial</h3>
-  <p>
-    <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=EA6113"></a>
-    <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F88F22"></a>
-    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=FBB931"></a>
-    <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=FBB931"></a>
   </p>
 
   <h3>💻 Linguagens de Programação</h3>
@@ -174,7 +165,6 @@ const JoaoMartins = {
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=F88F22"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=F88F22"></a>
-    <a href="#"><img alt="SVG + XML" src="https://img.shields.io/badge/SVG%2BXML-0d1117?style=for-the-badge&logo=svg&logoColor=F88F22"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=F88F22"></a>
   </p>
 
@@ -191,11 +181,9 @@ const JoaoMartins = {
   <h3>☁️ Banco de Dados & Cloud</h3>
   <p>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=F88F22"></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=F88F22"></a>
+    </a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F88F22"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=F88F22"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=F88F22"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=F88F22"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=F88F22"></a>
   </p>
 
@@ -207,7 +195,6 @@ const JoaoMartins = {
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=F88F22"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F88F22"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-0d1117?style=for-the-badge&logo=github&logoColor=F88F22"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=F88F22"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-0d1117?style=for-the-badge&logo=googlesheets&logoColor=F88F22"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-0d1117?style=for-the-badge&logo=brave&logoColor=F88F22"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=F88F22"></a>
