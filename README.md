@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:4a2100,50:8a3d0a,75:c9640f,100:EA6113&height=360&section=header&text=João%20Martins&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Dados&descAlignY=55&descSize=36"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:4a2100,50:8a3d0a,75:c9640f,100:EA6113&height=360&section=header&text=João%20Martins&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=desc=Cientista da Computação | Engenheiro de Dados&descAlignY=55&descSize=36"/>
 
 <div align="center">
 
