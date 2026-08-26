@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<a href="README_us.md">
-  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-EA6113?style=for-the-badge&labelColor=8a3d0a" height="35"/>
-</a>
-<a href="README_es.md">
-  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-F88F22?style=for-the-badge&labelColor=c9640f" height="35"/>
-</a>
 <a href="README.md">
   <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-FBB931?style=for-the-badge&labelColor=EA6113" height="35"/>
 </a>
