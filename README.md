@@ -1,7 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:4a2100,50:8a3d0a,75:c9640f,100:EA6113&height=360&section=header&text=João%20Martins&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=desc=Cientista da Computação | Engenheiro de Dados&descAlignY=55&descSize=36"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:4a2100,50:8a3d0a,75:c9640f,100:EA6113&height=360&section=header&text=João%20Martins&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cientista%20da%20Computação%20|%20Desenvolvedor%20Full-Stack&descAlignY=55&descSize=36"/>
 
 <div align="center">
 
+<a href="README_us.md">
+  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-EA6113?style=for-the-badge&labelColor=8a3d0a" height="35"/>
+</a>
+<a href="README_es.md">
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-F88F22?style=for-the-badge&labelColor=c9640f" height="35"/>
+</a>
 <a href="README.md">
   <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-FBB931?style=for-the-badge&labelColor=EA6113" height="35"/>
 </a>
@@ -27,7 +33,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6000&pause=2000&color=F88F22&center=true&vCenter=true&random=false&width=700&lines=Olá%2C+meu+nome+é+João+Martins;Desenvolvedor+Full-Stack;Engenheiro+de+Dados;Olinda%2C+PE+-+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6000&pause=2000&color=F88F22&center=true&vCenter=true&random=false&width=700&lines=Olá%2C+meu+nome+é+João+Martins;Cientista+da+Computação;Desenvolvedor+Full-Stack;Olinda%2C+PE+-+Brasil)](https://git.io/typing-svg)
 
 </div>
 
@@ -75,41 +81,45 @@ const JoaoMartins = {
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🌾_HOPE--agro--robot-Projeto-EA6113?style=for-the-badge" alt="HOPE-agro-robot"/>
+        <img src="https://img.shields.io/badge/🌾_HOPE--agro--robot-Protótipo-EA6113?style=for-the-badge" alt="HOPE-agro-robot"/>
         <br/><br/>
         <sub>
-          <b>Robô agrícola inteligente</b><br/>
-          IA • Automação • Dados<br/>
-          Otimizando processos no campo
+          <b>Automação agrícola em tempo real</b><br/>
+          Protótipo para coleta e transmissão de dados,<br/>
+          com foco em eficiência e apoio à decisão<br/>
+          <i>Python • Node.js • PostgreSQL • Docker • AWS</i>
         </sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📊_Dashboards-Interativos-F88F22?style=for-the-badge" alt="Dashboards"/>
+        <img src="https://img.shields.io/badge/💰_E--Trade_Tokens-Acadêmico-F88F22?style=for-the-badge" alt="E-Trade Tokens"/>
         <br/><br/>
         <sub>
-          <b>Painéis de visualização de dados</b><br/>
-          Power BI • Dados em tempo real<br/>
-          Insights claros para decisões
+          <b>Mini e-commerce baseado em tokens</b><br/>
+          Interface console e gráfica (Swing) para compra<br/>
+          de produtos de empresas usando tokens<br/>
+          <i>Java 17+ • Swing • JUnit • Git/GitHub</i>
         </sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🤖_Projetos_em-IA_e_Dados-FBB931?style=for-the-badge" alt="IA e Dados"/>
+        <img src="https://img.shields.io/badge/🎵_Loja_de_Vinil-Acadêmico-FBB931?style=for-the-badge" alt="Loja de Vinil"/>
         <br/><br/>
         <sub>
-          <b>Soluções de IA aplicadas a dados</b><br/>
-          Machine Learning • NLP • Pipelines<br/>
-          Transformando dados em valor
+          <b>Sistema de gerenciamento para loja de discos</b><br/>
+          Modelagem relacional completa, triggers, procedures,<br/>
+          views para relatórios e controle de permissões<br/>
+          <i>SQL • MySQL • Flask</i>
         </sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/⚙️_Automação-de_Processos-EA6113?style=for-the-badge" alt="Automação"/>
+        <img src="https://img.shields.io/badge/🌐_Landing_Page-Portfólio-EA6113?style=for-the-badge" alt="Landing Page Portfólio"/>
         <br/><br/>
         <sub>
-          <b>Automação de fluxos de trabalho</b><br/>
-          Scripts • Integrações • Eficiência<br/>
-          Reduzindo trabalho manual
+          <b>Portfólio pessoal (em desenvolvimento)</b><br/>
+          Site responsivo para apresentação profissional,<br/>
+          destacando Computação, Dados e Automação<br/>
+          <i>React • TypeScript • Tailwind CSS</i>
         </sub>
       </td>
     </tr>
@@ -142,22 +152,33 @@ const JoaoMartins = {
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F88F22"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F88F22"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F88F22"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=F88F22"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=F88F22"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F88F22"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=F88F22"></a>
   </p>
 
+  <h3>🧠 Inteligência Artificial</h3>
+  <p>
+    <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=EA6113"></a>
+    <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F88F22"></a>
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=FBB931"></a>
+    <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=FBB931"></a>
+  </p>
+
   <h3>💻 Linguagens de Programação</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F88F22"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F88F22"></a>
+    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=F88F22"></a>
   </p>
 
   <h3>🌐 Web & Markup</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=F88F22"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=F88F22"></a>
+    <a href="#"><img alt="SVG + XML" src="https://img.shields.io/badge/SVG%2BXML-0d1117?style=for-the-badge&logo=svg&logoColor=F88F22"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=F88F22"></a>
   </p>
 
@@ -166,6 +187,7 @@ const JoaoMartins = {
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=F88F22"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=F88F22"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=F88F22"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=F88F22"></a>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-0d1117?style=for-the-badge&logo=junit5&logoColor=F88F22"></a>
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=F88F22"></a>
   </p>
@@ -173,9 +195,11 @@ const JoaoMartins = {
   <h3>☁️ Banco de Dados & Cloud</h3>
   <p>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=F88F22"></a>
-    </a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=F88F22"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F88F22"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=F88F22"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=F88F22"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=F88F22"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=F88F22"></a>
   </p>
 
@@ -187,6 +211,8 @@ const JoaoMartins = {
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=F88F22"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F88F22"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-0d1117?style=for-the-badge&logo=github&logoColor=F88F22"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=F88F22"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-0d1117?style=for-the-badge&logo=googlesheets&logoColor=F88F22"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-0d1117?style=for-the-badge&logo=brave&logoColor=F88F22"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=F88F22"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0d1117?style=for-the-badge&logo=trello&logoColor=F88F22"></a>
