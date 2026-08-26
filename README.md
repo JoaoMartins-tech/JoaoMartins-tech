@@ -187,7 +187,6 @@ const JoaoMartins = {
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=F88F22"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F88F22"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-0d1117?style=for-the-badge&logo=github&logoColor=F88F22"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-0d1117?style=for-the-badge&logo=googlesheets&logoColor=F88F22"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-0d1117?style=for-the-badge&logo=brave&logoColor=F88F22"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=F88F22"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0d1117?style=for-the-badge&logo=trello&logoColor=F88F22"></a>
